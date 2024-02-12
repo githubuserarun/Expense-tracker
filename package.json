@@ -9,7 +9,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Arunkumar",
+  "author": "Arunkumar Ravi",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
